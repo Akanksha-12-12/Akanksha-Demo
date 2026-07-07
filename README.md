@@ -1,4 +1,5 @@
 # Akanksha-Demo
 This is my first git repository.
 <br>
-Author - Akanksha Suryawanshi-Patil
+Author - Akanksha Suryawanshiclear
+
